@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getLocal",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"learnings/local_store.sol": "local_store"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"learnings/local_store.sol": {
+			"keccak256": "0x34aa42936bffd2f3ebccbb9f879893c7bb652cf0bb46ca64b3dca79ee43e81a4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://94783cf7a6b08cd6a878c2e937b3129dabf3e75e3c05d6df69d5b05b8fb1b509",
+				"dweb:/ipfs/QmSgoVaxNLEGVbZhibHy4bYbCARH72jq83kmii9pSCrbor"
+			]
+		}
+	},
+	"version": 1
+}
